@@ -4,7 +4,11 @@
 }
 
 body{
+<<<<<<< HEAD
     background-color: green;
+=======
+    background-color: blue;
+>>>>>>> 4006a05bdae67ee0046d234fa3e9c5488708c19e
 }
 
 h2{
